@@ -1,4 +1,4 @@
-  <link rel="stylesheet" href="/static/categorias/contenidoEstatico/landings/assets/css/main.css?v=61">
+  <link rel="stylesheet" href="/static/categorias/contenidoEstatico/landings/assets/css/main.css?v=75">
 
 <style type="text/css">
   #main.newMainSection>.container {
@@ -17,10 +17,7 @@
   }
 </style>
 
-<body>
-  <main id="main" class="newMainSection">
-    <div class="container">
-      <section class="col-md-12">
+
         <div class="wrapper-servicios">
           <div class="header-servicios">
             <div class="row">
@@ -73,7 +70,7 @@
               </div>
               <div class="col-xs-12 col-md-12">
                 <div class="cont-item text-center">
-                  <img class="img-garantia" src="assets/img/garantia.png" alt="">
+                  <img class="img-garantia" src="/static/categorias/contenidoEstatico/landings/assets/img/garantia.png" alt="">
                 </div>
               </div>
             </div>
@@ -124,15 +121,7 @@
         <div class="text-left return">
           <a class="more-cat" href=""> <i class="glyphicon glyphicon-chevron-left"></i>Mas categorias</a>
         </div>
-      </section>
-    </div>
-  </main>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-  <script src="http://www.sodimac.com.pe/static/script/min/plugin/content.min.js?vid=3322"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <script type="text/javascript" src="/static/categorias/contenidoEstatico/landings/assets/js/resize.js?v=16"></script>
-  <script type="text/javascript" src="/static/categorias/contenidoEstatico/landings/assets/js/main.js?v=16">
-  </script>
-</body>
 
-</html>
+  <script type="text/javascript" src="/static/categorias/contenidoEstatico/landings/assets/js/resize.js?v=28"></script>
+  <script type="text/javascript" src="/static/categorias/contenidoEstatico/landings/assets/js/main.js?v=28">
+  </script>

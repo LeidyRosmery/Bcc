@@ -46,7 +46,7 @@ li.sub-cat.text-center {
 }
 
 .header-card {
-  font-family: "miso", Arial, Helvetica, sans-serif;
+  font-family: "MisoRegular", Arial, Helvetica, sans-serif;
   font-size: 19px;
   font-weight: normal;
   line-height: 23px;
@@ -60,7 +60,7 @@ li.sub-cat.text-center {
 
 .header-card a {
   color: #fff;
-  font-family: miso;
+  font-family:"MisoRegular", Arial, Helvetica, sans-serif;
   /* font-weight: bold; */
   font-size: 20px;
   display: flex;
@@ -80,7 +80,7 @@ li.sub-cat.text-center {
 /********************************************************/
 
 .title-header {
-  font-family: 'miso';
+  font-family: "MisoRegular", Arial, Helvetica, sans-serif;
 }
 
 .txt-header {
@@ -181,7 +181,7 @@ a:focus, a:active, a:hover {
 .txt-portada {
   background-color: #2c76b1;
   color: #fff;
-  font-family: "miso";
+  font-family:"MisoRegular", Arial, Helvetica, sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -209,7 +209,8 @@ img.img-garantia {
   }
   .txt-portada {
     font-size: 50px;
-    padding: 10px 33px;
+    padding: 30px 33px;
+    font-weight: 900;
   }
   .portada-img {
     height: 400px;
@@ -277,7 +278,7 @@ img.img-garantia {
     font-size: 33px;
   }
   .title-header {
-    font-family: 'miso';
+    font-family: "MisoRegular", Arial, Helvetica, sans-serif;
     font-size: 33px;
   }
   .plus {
@@ -300,8 +301,9 @@ img.img-garantia {
     font-weight: 900;
   }
   .txt-portada {
-    font-size: 40px;
-    padding: 21px 30px;
+    font-size: 42px;
+    padding: 30px 33px;
+    font-weight: 900;
   }
 }
 
@@ -379,7 +381,7 @@ img.img-garantia {
     font-weight: 900;
   }
   .txt-portada {
-    font-size: 16px;
+    font-size: 14px;
     padding: 9px;
   }
 }
@@ -394,7 +396,8 @@ img.img-garantia {
     font-size: 13.5px;
   }
   .txt-portada {
-    font-size: 22px;
+    font-size: 20px;
     padding: 13px 10px;
+    font-weight: 900;
   }
 }
